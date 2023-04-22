@@ -1,0 +1,3 @@
+export TERM=xterm-256color
+export PATH=$PATH:/usr/local/go/bin
+export PATH=/opt/homebrew/bin/python3:/opt/homebrew/opt/llvm/bin:/opt/homebrew/opt/openjdk/bin:/Users/shreykhandelwal/.amplify/bin:/opt/homebrew/Caskroom/miniforge/base/envs/venv/bin:/opt/homebrew/Caskroom/miniforge/base/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/local/sbin:/opt/local/bin:/opt/local/sbin:/Applications/Sublime Text.app/Contents/SharedSupport/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/opt/homebrew/opt/fzf/bin
