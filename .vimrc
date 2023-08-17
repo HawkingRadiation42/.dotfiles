@@ -68,10 +68,10 @@ Plug 'ambv/black'
 Plug 'davidhalter/jedi-vim'
 
 " Gruvbox color theme
-Plug 'morhetz/gruvbox'
+" Plug 'morhetz/gruvbox'
 
 " Vim-monokai-tasty color theme
-Plug 'patstockwell/vim-monokai-tasty'
+" Plug 'patstockwell/vim-monokai-tasty'
 call plug#end()
 
 " Set mapleader to space
@@ -269,4 +269,4 @@ let g:prettier#config#print_width = 100 " default is 'auto'
 
 " Colorscheme (For gruvbox $TERM env var needs to be xterm-256color)
 "autocmd vimenter * ++nested colorscheme gruvbox
-colorscheme vim-monokai-tasty
+" colorscheme vim-monokai-tasty
